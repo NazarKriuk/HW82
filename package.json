@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://NazarKriuk.github.io/HW82",
+  "homepage": "https://nazarkriuk.github.io/HW82",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /HW82/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NazarKriuk/HW82.git"
+    "url": "git+https://github.com/nazarkriuk/HW82.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
